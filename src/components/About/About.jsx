@@ -19,7 +19,7 @@ const About = () => {
           <div className="round w-[70px] h-[70px] rounded-full shadow-[0px_10px_30px_[#7ed7ea]]  shadow-[#7ad7ea] bg-cyan-300 flex items-center justify-center text-4xl text-black cursor-pointer active:scale-95">
             {" "}
             <a
-              href="https://www.linkedin.com/in/priyanshu-khristi-5419262b6"
+              href="https://www.linkedin.com/in/nagadurga-muttamsetti/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -30,7 +30,7 @@ const About = () => {
           <div className="line w-[3px] h-[150px] bg-white"></div>
           <div className="round w-[70px] h-[70px] rounded-full shadow-[0px_10px_30px_[#7ed7ea]]  shadow-[#7ad7ea] bg-cyan-300 flex items-center justify-center text-4xl text-black cursor-pointer active:scale-95">
           <a
-              href="https://github.com/Pkhristi-devloper"
+              href="https://github.com/Durga-220"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -41,7 +41,7 @@ const About = () => {
           <div className="line w-[3px] h-[150px] bg-white"></div>
           <div className="round w-[70px] h-[70px] rounded-full shadow-[0px_10px_30px_[#7ed7ea]]  shadow-[#7ad7ea] bg-cyan-300 flex items-center justify-center text-4xl text-black cursor-pointer active:scale-95">
           <a
-              href="https://leetcode.com/u/pkhristi_27/"
+              href="https://leetcode.com/u/mndurga22004/"
               target="_blank"
               rel="noopener noreferrer"
             >

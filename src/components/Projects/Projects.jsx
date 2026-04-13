@@ -11,15 +11,15 @@ const Projects = () => {
       url: "https://food-delivery-nine-olive.vercel.app/",
     },
     {
-      title: "Book My Show Clone",
-      image:
-        "https://github.com/Pkhristi-devloper/Personal-Portfolio-Basic-/blob/main/src/assets/food_delivery.png?raw=true",
-      url: "https://book-my-show-clone-ruddy-psi.vercel.app/",
-    },
+  title: "Book My Show Clone",
+  image:
+    "https://github.com/Durga-220/portfolio/blob/main/src/assets/book-my-show.png?raw=true",
+  url: "https://book-my-show-clone-ruddy-psi.vercel.app/",
+},
     {
       title: "Think2Code",
       image:
-        "https://github.com/Pkhristi-devloper/Personal-Portfolio-Basic-/blob/main/src/assets/food_delivery.png?raw=true",
+        "https://github.com/Durga-220/portfolio/blob/main/src/assets/think2code.png?raw=true",
       url: "https://think2code-app.vercel.app/",
     },
    
