@@ -77,7 +77,7 @@ const Contact = () => {
         className="desktopForm right w-[50%] h-full p-[10px]"
       >
         <form
-          action="https://formspree.io/f/mkgjpzja"
+          action="https://formspree.io/f/xnjlakpe"
           method="POST"
           className="w-full h-full"
         >

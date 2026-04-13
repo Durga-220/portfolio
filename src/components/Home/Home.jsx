@@ -12,7 +12,7 @@ const Home = () => {
         <div className="homedetails flex flex-col gap-[5vh] ">
           <div className="first text-2xl">I&apos;M</div>
           <div className="second text-5xl font-bold uppercase bg-linear-90 from-blue-500 via-zinc-300 to-cyan-500 bg-clip-text text-transparent">
-            Priyanshu Khristi
+            NAGADURGA  MUTTAMSETTI
           </div>
           <div className="third text-3xl">
             <TypeAnimation
@@ -28,6 +28,8 @@ const Home = () => {
                 "REACT DEVELOPER",
                 1000,
                 "UI/UX DESIGNER",
+                1000,
+                "JAVA DEVELOPER",
                 1000,
               ]}
               wrapper="span"

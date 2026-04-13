@@ -3,12 +3,7 @@ import "./Projects.css";
 
 const Projects = () => {
   const projects = [
-    {
-      title: "Food Delivery Website",
-      image:
-        "https://github.com/Pkhristi-devloper/Personal-Portfolio-Basic-/blob/main/src/assets/food.png?raw=true",
-      url: "https://food-delivery-app-omega-gold.vercel.app/",
-    },
+    
     {
       title: "Food Delivery Website",
       image:
@@ -16,35 +11,19 @@ const Projects = () => {
       url: "https://food-delivery-nine-olive.vercel.app/",
     },
     {
-      title: "Chatgpt Ai Assistant",
+      title: "Book My Show Clone",
       image:
-        "https://github.com/Pkhristi-devloper/Personal-Portfolio-Basic-/blob/main/src/assets/gpt.png?raw=true",
-      url: "https://chatgpt-own-ai-model.vercel.app/",
+        "https://github.com/Pkhristi-devloper/Personal-Portfolio-Basic-/blob/main/src/assets/food_delivery.png?raw=true",
+      url: "https://book-my-show-clone-ruddy-psi.vercel.app/",
     },
     {
-      title: "Obys Agency",
+      title: "Think2Code",
       image:
-        "https://github.com/Pkhristi-devloper/Personal-Portfolio-Basic-/blob/main/src/assets/Obys.png?raw=true",
-      url: "https://pkhristi-devloper.github.io/Obys-Agency/",
+        "https://github.com/Pkhristi-devloper/Personal-Portfolio-Basic-/blob/main/src/assets/food_delivery.png?raw=true",
+      url: "https://think2code-app.vercel.app/",
     },
-    {
-      title: "Dragging Cards",
-      image:
-        "https://github.com/Pkhristi-devloper/Personal-Portfolio-Basic-/blob/main/src/assets/cards.png?raw=true",
-      url: "https://pkhristi-devloper.github.io/Dragging-cards/",
-    },
-    {
-      title: "Refokus Clone",
-      image:
-        "https://github.com/Pkhristi-devloper/Personal-Portfolio-Basic-/blob/main/src/assets/refokus.png?raw=true",
-      url: "https://github.com/Pkhristi-devloper/Refokus-Clone",
-    },
-    {
-      title: "Ochi Eye Animation",
-      image:
-        "https://github.com/Pkhristi-devloper/Personal-Portfolio-Basic-/blob/main/src/assets/ochi.png?raw=true",
-      url: "https://github.com/Pkhristi-devloper/Ochi-Eye-Opening-Animation",
-    },
+   
+   
   ];
 
   const duplicatedProjects = [...projects, ...projects];

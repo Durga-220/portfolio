@@ -1,7 +1,7 @@
 import Card from "../Card/Card";
 import "./About.css";
 import frontend from "../../assets/fronted-developer.png";
-import cpp from "../../assets/C++.png";
+import Java from "../../assets/Java.png";
 import dsa from "../../assets/leetcode.png";
 import { CiLinkedin } from "react-icons/ci";
 import { FaGithub } from "react-icons/fa";
@@ -9,7 +9,7 @@ import { SiLeetcode } from "react-icons/si";
 const About = () => {
   let cards = [
     { title: "frontend developer", image: frontend },
-    { title: "C++", image: cpp },
+    { title: "Java", image: Java },
     { title: "Competetive Programmer", image: dsa },
   ];
   return (
@@ -57,17 +57,17 @@ const About = () => {
             </h1>
             <ul>
               <li>
-                <span className="text-cyan-400">Name : </span> Priyanshu Khristi
+                <span className="text-cyan-400">Name : </span> Nagadurga Muttamsetti
               </li>
               <li>
-                <span className="text-cyan-400">Age : </span> 19 years
+                <span className="text-cyan-400">Age : </span> 21 years
               </li>
               <li>
-                <span className="text-cyan-400">Gender : </span>Male
+                <span className="text-cyan-400">Gender : </span>Female
               </li>
               <li>
-                <span className="text-cyan-400">Languages Known : </span>Hindi,
-                English, Gujarati
+                <span className="text-cyan-400">Languages Known : </span>English,
+                Telugu
               </li>
             </ul>
           </div>
@@ -77,15 +77,15 @@ const About = () => {
             </h1>
             <ul>
               <li>
-                <span className="text-cyan-400">Degree :</span> B.E.(Second
-                Year)
+                <span className="text-cyan-400">Degree :</span> B.Tech.(Final-Year)
+                
               </li>
               <li>
-                <span className="text-cyan-400">Branch : </span>Information
-                Technology
+                <span className="text-cyan-400">Branch : </span>Computer Science and Engineering
+                
               </li>
               <li>
-                <span className="text-cyan-400">CGPA : </span>9.35
+                <span className="text-cyan-400">CGPA : </span>8.2
               </li>
             </ul>
           </div>
@@ -97,7 +97,7 @@ const About = () => {
               <li>Web Development </li>
               <li>Frontend Development</li>
               <li>React Development</li>
-              <li>JavaScript Development</li>
+              <li>Java Development</li>
               <li>Competitive Programming</li>
             </ul>
           </div>
